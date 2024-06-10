@@ -1,14 +1,14 @@
 # Ignore all image files
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
-*.svg
-*.ico
-
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
+# *.tiff
+# *.svg
+# *.ico
+# *.webp
 # Other patterns to ignore
-# node_modules/
+datasets/
 # .DS_Store
 # *.log
